@@ -33,7 +33,7 @@ public class RemoveMultipleOf {
 
     public static void main(String[] args) {
         RemoveMultipleOf rm = new RemoveMultipleOf();
-        System.out.println();
+        System.out.println(rm.eratosthenes(50));
 
 
     }
